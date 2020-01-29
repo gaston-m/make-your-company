@@ -44,7 +44,7 @@ app.use(express.json());
 
 app.use(require('./routes'));
 app.use('/users', require('./routes/users'));
-app.use('/compr', require('./routes/comp'));
+app.use('/emp', require('./routes/emp'));
 
 
 //------------------------Iniciando el Servidor---------------------

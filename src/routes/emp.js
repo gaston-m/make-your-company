@@ -3,7 +3,7 @@ const router = express.Router();
 
 router.get('/', (req, res) => {
 
-    res.send('Saludos desde Comp')
+    res.send('Saludos desde Emp')
 
 });
 
