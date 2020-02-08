@@ -6,7 +6,6 @@
 
 * NodeJS
 * Express
-* Handlebars
 * Passport
 * React (proximamente!)
 
