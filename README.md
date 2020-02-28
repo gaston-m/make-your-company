@@ -7,7 +7,7 @@
 * NodeJS
 * Express
 * Passport
-* React (proximamente!)
+* Handlebars
 
 
 ### (Aqui estaran las capturas de pantalla) 

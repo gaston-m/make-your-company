@@ -40,11 +40,13 @@ app.use(express.json());
 //------------------------Constantes Globales----------------------
 
 
+
+
 //------------------------Routes-------------------------------------
 
 app.use(require('./routes'));
 app.use('/users', require('./routes/users'));
-app.use('/emp', require('./routes/emp'));
+app.use('/business', require('./routes/bus'));
 
 
 //------------------------Iniciando el Servidor---------------------

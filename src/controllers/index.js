@@ -1,4 +1,5 @@
-const emp = require ('./emp');
-const users = require('./users');
+const business = require ('./bus.controller');
+const users = require('./users.controller');
+const docbusiness = require('./docbus.controller');
 
-module.exports = { emp, users};
+module.exports = { business, users, docbusiness};
